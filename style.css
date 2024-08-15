@@ -325,6 +325,11 @@ button:focus {
     flex-direction: column;
   }
 
+  .input-group {
+    width: 100%;
+    margin-right: 10px;
+  }
+
   .quick-type {
     flex-direction: column;
   }
